@@ -1,0 +1,14 @@
+{
+  "name": "tripai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TripAI — AI Travel Itinerary Generator",
+  "scripts": {
+    "install:all": "npm install --prefix Backend && npm install --prefix Frontend/app",
+    "dev:backend": "npm run dev --prefix Backend",
+    "dev:frontend": "npm start --prefix Frontend/app",
+    "build": "npm run build --prefix Frontend/app",
+    "start": "npm start --prefix Backend",
+    "health": "curl http://localhost:5000/api/health"
+  }
+}

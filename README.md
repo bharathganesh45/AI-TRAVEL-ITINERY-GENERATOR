@@ -516,11 +516,10 @@ Solution: In pgAdmin, verify hostname is `postgres` (not localhost) when using D
 For issues, questions, or suggestions:
 1. Check existing issues on GitHub
 2. Open a new issue with detailed description
-3. Contact: bharathganesh45@github.com
+3. Contact: bharathganesh45@gmail.com
 
-## License
 
-This project is open source and available under the MIT License.
+
 
 ## Acknowledgments
 
@@ -528,10 +527,9 @@ This project is open source and available under the MIT License.
 - **PostgreSQL** for reliable data storage
 - **React** for the frontend framework
 - **Express.js** for the backend framework
-- **Docker** for containerization and easy deployment
 
 ---
 
-**Made with ❤️ for travelers everywhere**
+**Made with  for travelers everywhere**
 
 *Last Updated: September 2026*
